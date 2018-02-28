@@ -1,0 +1,50 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	margin: auto;
+	width: 970px;
+}
+#container {
+	width: 970px;
+	height: 700px;
+
+}
+#houses {
+	width: 970px;
+	text-align: center;
+
+}
+#content {
+	width: 600px;
+	height: 300px;
+	border: 5px solid black;
+	margin-left: 190px;
+	margin-top: 200px;
+}
+img {
+	height: 150px;
+	width: 150px;
+	margin: 20px;
+	border: 3px solid black;
+}
+#content {
+	margin-top: -12px;
+}
+#content p {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+#content p:nth-child(3){
+	margin-top: 100px;
+}
+h3 {
+	display: inline-block;
+	height: 20px;
+	margin-left: 225px;
+	margin-top: 125px;
+	background: white;
+}
+
